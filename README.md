@@ -7,8 +7,6 @@ img {
 
 # Test-Driven Development Introduction
 
-That TDD Fellow
-
 
 
 ![Oleksii Fedorov Photo](me.jpeg)
@@ -18,8 +16,6 @@ That TDD Fellow
 Software Craftsperson
 
 @ Pivotal Labs - Berlin
-
-That TDD Fellow
 
 @waterlink000
 
