@@ -1,7 +1,11 @@
 <style>
-img {
+.photo-me {
   height: 320px;
   float: left;
+}
+
+.tdd-cycle {
+  height: 500px;
 }
 </style>
 
@@ -9,7 +13,7 @@ img {
 
 
 
-![Oleksii Fedorov Photo](me.jpeg)
+<img src="me.jpeg" class="photo-me">
 
 ## Oleksii Fedorov
 
@@ -29,12 +33,9 @@ Software Craftsperson
 
 
 
-## Red -> Green -> Refactoring
+<img src="tdd-cycle.jpg" class="tdd-cycle">
 
-- `Red` by writing a failing test
-- `Green` by writing enough of a production code to pass it
-- Spend most of your time in `Refactoring` phase
-- Repeat
+<small>by Alexis Rondeau</small>
 
 Note:
 You shape your system in refactoring phase, while keeping all the tests green.
